@@ -1,0 +1,15 @@
+button{
+    background-color: rgb(255, 72, 0);
+    color: white;
+}
+#para1{
+    color: brown;
+}
+#para2{
+    color: dodgerblue;
+}
+
+.content{
+    color: indigo;
+    background-color: bisque;
+}
